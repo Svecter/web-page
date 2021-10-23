@@ -1,2 +1,3 @@
 # web-page
-Página web de la práctica para la IOC
+# autor: Victor Sanchis Saumell
+Proyecto de la página web para el videojuego "Ground Soldier".
